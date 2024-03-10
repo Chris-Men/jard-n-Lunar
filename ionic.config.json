@@ -1,0 +1,7 @@
+{
+  "name": "jardin-lunar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
